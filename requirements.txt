@@ -2,6 +2,7 @@ annotated-types==0.6.0
 anyio==3.7.1
 click==8.1.7
 fastapi==0.104.1
+gunicorn==21.2.0
 h11==0.14.0
 idna==3.5
 packaging==23.2
